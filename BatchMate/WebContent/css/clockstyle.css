@@ -1,0 +1,12 @@
+
+.clockList {
+	width:200px; height:70px; margin:0 auto; padding:0px; list-style:none;font-family:Impact, Charcoal, sans-serif;
+}
+
+.clockList li {
+	display:inline; font-size:3.5em;
+}
+
+
+
+

@@ -1,0 +1,56 @@
+body{
+	background-color:rgba(85, 85, 85, 0.22);
+	font-family:Georgia, serif;
+	
+}
+.container{
+	
+	height:750px;
+}
+
+#headerRow{
+	height:15%;
+}
+
+#centerRow{
+	height:85%;
+}
+
+#footerRow{
+	height:20%;
+}
+
+#header{
+	height:100%;
+	background-color:rgba(0, 82, 155, 0.71);
+}
+
+#jobPanel{
+	height:100%;
+	background-color:rgba(0, 82, 155, 0.71);
+	margin-top:10px;
+}
+
+.panel-default>.panel-heading {
+
+background-color: white;
+border-color: rgba(0, 82, 155, 0.71);
+}
+.btn-primary{
+	margin-top:0px;
+}
+#jobDescriptionPanel{
+	background-color:rgba(0,82,155,0.71);
+	height:100%;
+	margin-top:10px;
+}
+
+#widgetArea{
+	background-color:rgba(0,82,155,0.71);
+	margin-top:10px;
+	height:100%;
+}
+#footer{
+	height:100%;
+	background-color:green;
+}

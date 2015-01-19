@@ -1,0 +1,118 @@
+body{
+	background-color:rgba(85, 85, 85, 0.22);
+	font-family:Georgia, serif;
+	
+}
+.container{
+	
+	height:750px;
+}
+
+#headerRow{
+	height:15%;
+}
+
+#centerRow{
+	height:85%;
+}
+
+#footerRow{
+	height:20%;
+}
+
+#header{
+	height:100%;
+	
+}
+
+#jobPanel{
+	height:100%;
+	background-color:rgba(0, 82, 155, 0.71);
+	margin-top:10px;
+}
+
+.panel-default>.panel-heading {
+
+background-color: white;
+border-color: rgba(0, 82, 155, 0.71);
+}
+/* .btn-primary{
+	margin-top:8px;
+} */
+#jobDescriptionPanel{
+	background-color:rgba(0,82,155,0.71);
+	height:100%;
+	margin-top:10px;
+}
+
+#widgetArea{
+	background-color:rgba(0,82,155,0.71);
+	margin-top:10px;
+	height:100%;
+}
+#footer{
+	height:100%;
+	background-color:green;
+}
+
+#manage a{
+	margin-top:5px;
+}
+
+#jobNames .btn-primary{
+	margin-top:8px;
+}
+
+.image #adminLogo{
+	position:absolute;
+	top:22px;
+	text-align:right;
+	right:8px;
+	color:black
+}
+
+#adminDropdown{
+	
+    float: right;
+    margin-top: -92px;
+    margin-right: 11px;
+	
+}
+
+#manageJobPanel{
+	height:100%;
+	background-color:rgba(0, 82, 155, 0.71);
+	margin-top:10px;
+}
+
+#manageJobDescriptionPanel{
+	background-color:rgba(0,82,155,0.71);
+	height:100%;
+	margin-top:10px;
+}
+
+#panel1 a{
+	margin-top:3px;
+    text-align: left; 
+    align:left;
+	width:108px;	
+}
+
+#panel2 a{
+	margin-top:3px;
+    text-align: left;
+    align:left; 
+	width:108px
+}
+
+.carousel-inner img{
+	margin-left:100px;
+}
+ 
+.carousel-indicators li{
+	border: 1px solid rgba(0, 82, 155, 0.71);
+}
+
+.carousel-indicators .active{
+	background-color: rgba(0, 82, 155, 0.71);
+}
